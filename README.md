@@ -1,6 +1,6 @@
 # Hello, I'm Tanishka
 
-A second-year information technology student based in pune.
+A third-year information technology student based in pune.
 
 Currently working as a software development intern at konvo.
 
